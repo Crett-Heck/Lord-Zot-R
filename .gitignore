@@ -185,6 +185,7 @@ _pkginfo.txt
 !*.[Cc]ache/
 
 # Others
+ZotMod/zotassetbundle
 ClientBin/
 ~$*
 *~
